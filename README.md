@@ -1,1 +1,1 @@
-# spotify-populartiy-prediction
+# badbunny_popularity_prediction

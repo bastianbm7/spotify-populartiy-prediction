@@ -1,0 +1,88 @@
+track_name,track_id,track_duration,track_popularity,track_url,track_uri,track_danceability,track_energy,track_key,track_loudness,track_speechiness,track_acousticness,track_instrumentalness,track_liveness,track_valence,track_tempo,track_time_signature
+BICHOTAG,5CQXesQM39J0CBnY0Npp6S,133.977,69,https://open.spotify.com/track/5CQXesQM39J0CBnY0Npp6S,spotify:track:5CQXesQM39J0CBnY0Npp6S,0.411,0.763,5,-8.339,0.211,0.0594,5.35e-05,0.0912,0.461,75.029,4
+OKI DOKI,601dhwn8qc31FrSlMu5wEf,143.789,83,https://open.spotify.com/track/601dhwn8qc31FrSlMu5wEf,spotify:track:601dhwn8qc31FrSlMu5wEf,0.753,0.835,2,-4.167,0.0521,0.204,0.000186,0.384,0.583,105.982,4
+MI EX TENÍA RAZÓN,7mLPSkAJraASgNk6ywyTkp,154.374,81,https://open.spotify.com/track/7mLPSkAJraASgNk6ywyTkp,spotify:track:7mLPSkAJraASgNk6ywyTkp,0.725,0.634,0,-4.88,0.0577,0.0754,0.0,0.208,0.845,159.898,4
+S91,6NlJtxTYtt0b8tY2IAZDAV,173.005,70,https://open.spotify.com/track/6NlJtxTYtt0b8tY2IAZDAV,spotify:track:6NlJtxTYtt0b8tY2IAZDAV,0.72,0.856,0,-4.946,0.215,0.631,1.33e-05,0.0901,0.385,128.155,4
+QLONA,3XB5uhhlYSnkxpSihkNQwh,172.797,88,https://open.spotify.com/track/3XB5uhhlYSnkxpSihkNQwh,spotify:track:3XB5uhhlYSnkxpSihkNQwh,0.756,0.842,7,-7.409,0.338,0.525,2.21e-06,0.0871,0.421,169.925,4
+UNA NOCHE EN MEDELLÍN - REMIX,6ejks4eS7DOoYW8hrpRcDV,205.144,80,https://open.spotify.com/track/6ejks4eS7DOoYW8hrpRcDV,spotify:track:6ejks4eS7DOoYW8hrpRcDV,0.764,0.843,10,-2.494,0.0741,0.0356,0.0,0.0448,0.872,96.025,4
+ME TENGO QUE IR,5AwdJhVYK64TDpfdRa1DyN,276.904,70,https://open.spotify.com/track/5AwdJhVYK64TDpfdRa1DyN,spotify:track:5AwdJhVYK64TDpfdRa1DyN,0.632,0.772,3,-5.103,0.0317,0.231,0.00609,0.114,0.753,136.978,4
+GATITA GANGSTER,7gUtEoYJcPnhF4bJAJ3O8q,170.92,70,https://open.spotify.com/track/7gUtEoYJcPnhF4bJAJ3O8q,spotify:track:7gUtEoYJcPnhF4bJAJ3O8q,0.548,0.843,10,-5.153,0.124,0.156,1.55e-06,0.0957,0.509,96.963,4
+DISPO,4iGQ8o9Ih6J1OuDDGCXSCL,193.961,81,https://open.spotify.com/track/4iGQ8o9Ih6J1OuDDGCXSCL,spotify:track:4iGQ8o9Ih6J1OuDDGCXSCL,0.64,0.832,0,-3.085,0.0483,0.466,0.0,0.123,0.645,93.946,4
+PROVENZA - REMIX,7DmP5W2DbhXC7uKYbYXtIm,187.67,66,https://open.spotify.com/track/7DmP5W2DbhXC7uKYbYXtIm,spotify:track:7DmP5W2DbhXC7uKYbYXtIm,0.871,0.778,1,-3.179,0.0413,0.00528,0.000337,0.138,0.555,128.016,4
+MIENTRAS ME CURO DEL CORA,6otePxalBK8AVa20xhZYVQ,164.386,85,https://open.spotify.com/track/6otePxalBK8AVa20xhZYVQ,spotify:track:6otePxalBK8AVa20xhZYVQ,0.477,0.523,0,-6.786,0.392,0.855,0.0,0.146,0.57,79.921,4
+X SI VOLVEMOS,4NoOME4Dhf4xgxbHDT7VGe,200.12,84,https://open.spotify.com/track/4NoOME4Dhf4xgxbHDT7VGe,spotify:track:4NoOME4Dhf4xgxbHDT7VGe,0.807,0.794,1,-3.447,0.326,0.334,0.0,0.104,0.575,178.003,4
+PERO TÚ,1dw7qShk971xMD6r6mA4VN,183.48,79,https://open.spotify.com/track/1dw7qShk971xMD6r6mA4VN,spotify:track:1dw7qShk971xMD6r6mA4VN,0.79,0.861,6,-4.561,0.291,0.394,0.0,0.111,0.681,139.845,4
+BESTIES,7eTv2OTr3aY5iKtFdBusoA,162.146,72,https://open.spotify.com/track/7eTv2OTr3aY5iKtFdBusoA,spotify:track:7eTv2OTr3aY5iKtFdBusoA,0.825,0.779,1,-3.366,0.306,0.146,0.0,0.0989,0.654,171.926,4
+GUCCI LOS PAÑOS,3CNbrXrUrEARw8zeKNCdYo,186.453,75,https://open.spotify.com/track/3CNbrXrUrEARw8zeKNCdYo,spotify:track:3CNbrXrUrEARw8zeKNCdYo,0.45,0.791,2,-3.001,0.0393,0.542,0.0,0.185,0.87,157.953,3
+TQG,0DWdj2oZMBFSzRsi2Cvfzf,197.933,89,https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf,spotify:track:0DWdj2oZMBFSzRsi2Cvfzf,0.63,0.72,4,-3.547,0.277,0.673,0.0,0.0936,0.607,179.974,4
+TUS GAFITAS,3gOI5aQD4mOMLsP3aWrkon,167.786,73,https://open.spotify.com/track/3gOI5aQD4mOMLsP3aWrkon,spotify:track:3gOI5aQD4mOMLsP3aWrkon,0.696,0.821,8,-5.796,0.043,0.315,1.07e-05,0.157,0.566,122.005,4
+OJOS FERRARI,5yAIrkplUEpMNeojW8Q30o,180.04,71,https://open.spotify.com/track/5yAIrkplUEpMNeojW8Q30o,spotify:track:5yAIrkplUEpMNeojW8Q30o,0.707,0.9,1,-2.792,0.0934,0.161,4.25e-05,0.176,0.634,124.042,4
+MERCURIO,6KCvMsAiL6WseKEFsWoPgc,160.426,68,https://open.spotify.com/track/6KCvMsAiL6WseKEFsWoPgc,spotify:track:6KCvMsAiL6WseKEFsWoPgc,0.67,0.879,11,-4.55,0.0975,0.526,0.0,0.123,0.62,139.996,4
+GATÚBELA,6Vn1vje8yMw2OY6IOk9dkH,208.013,74,https://open.spotify.com/track/6Vn1vje8yMw2OY6IOk9dkH,spotify:track:6Vn1vje8yMw2OY6IOk9dkH,0.859,0.853,11,-2.68,0.306,0.257,0.0,0.172,0.325,95.131,4
+KÁRMIKA,3mFNc5EQn30irR983Wg9OD,236.586,73,https://open.spotify.com/track/3mFNc5EQn30irR983Wg9OD,spotify:track:3mFNc5EQn30irR983Wg9OD,0.64,0.876,6,-5.264,0.392,0.468,0.0,0.143,0.729,97.169,4
+PROVENZA,3HqcNJdZ2seoGxhn0wVNDK,207.626,85,https://open.spotify.com/track/3HqcNJdZ2seoGxhn0wVNDK,spotify:track:3HqcNJdZ2seoGxhn0wVNDK,0.517,0.87,1,-7.918,0.0475,0.576,0.00553,0.11,0.54,111.002,4
+CAROLINA,3goYw6YHoCjA1sfBzpdgzH,162.093,73,https://open.spotify.com/track/3goYw6YHoCjA1sfBzpdgzH,spotify:track:3goYw6YHoCjA1sfBzpdgzH,0.747,0.699,1,-4.182,0.301,0.486,0.00363,0.111,0.737,82.982,4
+DAÑAMOS LA AMISTAD,3jUDqkHatwtprUmZ8epP8P,174.96,67,https://open.spotify.com/track/3jUDqkHatwtprUmZ8epP8P,spotify:track:3jUDqkHatwtprUmZ8epP8P,0.786,0.758,0,-4.847,0.0928,0.167,8.46e-06,0.0705,0.592,92.984,4
+AMARGURA,505v13epFXodT9fVAJ6h8k,170.48,90,https://open.spotify.com/track/505v13epFXodT9fVAJ6h8k,spotify:track:505v13epFXodT9fVAJ6h8k,0.696,0.92,6,-3.356,0.0742,0.183,0.0,0.149,0.545,106.966,4
+CAIRO,16dUQ4quIHDe4ZZ0wF1EMN,198.666,80,https://open.spotify.com/track/16dUQ4quIHDe4ZZ0wF1EMN,spotify:track:16dUQ4quIHDe4ZZ0wF1EMN,0.677,0.957,5,-3.979,0.292,0.483,0.000438,0.0961,0.469,115.0,4
+MAÑANA SERÁ BONITO,4bycD60yZgR6anIBtmU8UH,210.986,76,https://open.spotify.com/track/4bycD60yZgR6anIBtmU8UH,spotify:track:4bycD60yZgR6anIBtmU8UH,0.715,0.777,8,-4.569,0.0874,0.455,3.5e-05,0.326,0.245,92.006,4
+DÉJALOS QUE MIREN,1gDN23O2aqeWX5NqjSnAbV,167.773,56,https://open.spotify.com/track/1gDN23O2aqeWX5NqjSnAbV,spotify:track:1gDN23O2aqeWX5NqjSnAbV,0.578,0.843,6,-4.377,0.0914,0.695,0.000167,0.141,0.871,151.928,4
+EL MAKINON,2FSGUA0gFgGeQdprjtGM2M,209.16,79,https://open.spotify.com/track/2FSGUA0gFgGeQdprjtGM2M,spotify:track:2FSGUA0gFgGeQdprjtGM2M,0.706,0.635,5,-3.224,0.125,0.256,0.0,0.108,0.443,88.863,4
+200 COPAS,0aZnyTWJNgdzYoOiaW8HKG,217.213,77,https://open.spotify.com/track/0aZnyTWJNgdzYoOiaW8HKG,spotify:track:0aZnyTWJNgdzYoOiaW8HKG,0.704,0.515,9,-5.25,0.206,0.767,0.0,0.415,0.885,91.246,3
+CONTIGO VOY A MUERTE,615XWyY2RPfk3iuYcU6qvi,219.96,76,https://open.spotify.com/track/615XWyY2RPfk3iuYcU6qvi,spotify:track:615XWyY2RPfk3iuYcU6qvi,0.853,0.77,11,-2.593,0.0484,0.2,3.85e-06,0.0627,0.781,82.994,4
+DVD,2Uk2XAamvFG6AecKgayLKU,198.973,56,https://open.spotify.com/track/2Uk2XAamvFG6AecKgayLKU,spotify:track:2Uk2XAamvFG6AecKgayLKU,0.785,0.777,6,-4.145,0.263,0.04,1.6e-05,0.35,0.512,164.018,4
+EL BARCO,0MT6qJd7wKlWjH7tP7oWHi,203.506,80,https://open.spotify.com/track/0MT6qJd7wKlWjH7tP7oWHi,spotify:track:0MT6qJd7wKlWjH7tP7oWHi,0.849,0.85,8,-3.436,0.0437,0.611,0.000193,0.329,0.92,143.975,4
+LOCATION,478g4LSkyMB1PMkVOVmIaE,263.013,59,https://open.spotify.com/track/478g4LSkyMB1PMkVOVmIaE,spotify:track:478g4LSkyMB1PMkVOVmIaE,0.765,0.771,1,-3.887,0.0508,0.0487,0.0,0.313,0.66,115.984,4
+GATO MALO,7wy5kv4fYAsR9qFxKKZC5E,225.173,62,https://open.spotify.com/track/7wy5kv4fYAsR9qFxKKZC5E,spotify:track:7wy5kv4fYAsR9qFxKKZC5E,0.59,0.873,4,-4.247,0.197,0.353,0.0,0.0977,0.523,111.994,4
+ODISEA,1lyT9DtXlF7bjiwEurRpRU,223.666,53,https://open.spotify.com/track/1lyT9DtXlF7bjiwEurRpRU,spotify:track:1lyT9DtXlF7bjiwEurRpRU,0.902,0.726,9,-2.3,0.0712,0.135,3.22e-05,0.108,0.415,175.919,4
+BICHOTA,1WvrDdouh6C51In1SdATbq,178.693,73,https://open.spotify.com/track/1WvrDdouh6C51In1SdATbq,spotify:track:1WvrDdouh6C51In1SdATbq,0.658,0.864,1,-4.105,0.154,0.204,0.000626,0.105,0.865,163.922,4
+SOLA ES MEJOR,6b5LFS96QBt4qJ5Yd3tfqm,200.146,67,https://open.spotify.com/track/6b5LFS96QBt4qJ5Yd3tfqm,spotify:track:6b5LFS96QBt4qJ5Yd3tfqm,0.788,0.79,11,-3.743,0.0843,0.078,0.00015,0.0665,0.695,160.048,4
+ARRANCA PAL CARAJO,2LRI27CycRpNInbdM8AFLI,246.76,49,https://open.spotify.com/track/2LRI27CycRpNInbdM8AFLI,spotify:track:2LRI27CycRpNInbdM8AFLI,0.827,0.819,1,-3.032,0.182,0.0765,0.0,0.206,0.744,160.143,4
+"Ay, DiOs Mío!",1beTDCe7sT7fzm8WIKXicz,189.413,69,https://open.spotify.com/track/1beTDCe7sT7fzm8WIKXicz,spotify:track:1beTDCe7sT7fzm8WIKXicz,0.708,0.717,11,-4.395,0.19,0.511,0.00101,0.106,0.518,180.001,4
+BEAUTIFUL BOY,50dG65XY5SNFkpFl2xA5Dn,197.333,50,https://open.spotify.com/track/50dG65XY5SNFkpFl2xA5Dn,spotify:track:50dG65XY5SNFkpFl2xA5Dn,0.631,0.823,11,-5.249,0.0976,0.268,0.0,0.23,0.642,103.002,4
+Tusa,0dKg2vGC1hFqcK5LGTaKzX,201.92,71,https://open.spotify.com/track/0dKg2vGC1hFqcK5LGTaKzX,spotify:track:0dKg2vGC1hFqcK5LGTaKzX,0.701,0.799,2,-3.272,0.282,0.309,7.36e-05,0.0514,0.607,100.946,4
+LEYENDAS,5vQy9fwVJTeLsaX9IOpCcp,352.093,63,https://open.spotify.com/track/5vQy9fwVJTeLsaX9IOpCcp,spotify:track:5vQy9fwVJTeLsaX9IOpCcp,0.784,0.554,1,-5.459,0.113,0.0607,0.0,0.301,0.61,96.699,4
+Ocean,6qoIFQfdmaQF9A1gb67tR7,155.946,75,https://open.spotify.com/track/6qoIFQfdmaQF9A1gb67tR7,spotify:track:6qoIFQfdmaQF9A1gb67tR7,0.482,0.727,11,-6.193,0.115,0.933,0.0,0.388,0.487,74.93,4
+Punto G,2E82gORVSA7UMEz5M1IP3b,183.16,57,https://open.spotify.com/track/2E82gORVSA7UMEz5M1IP3b,spotify:track:2E82gORVSA7UMEz5M1IP3b,0.746,0.791,6,-4.716,0.0907,0.00938,0.000117,0.125,0.905,165.994,4
+Love With A Quality,6F9DPkjP6Tbz9FLgLyYgX6,223.76,56,https://open.spotify.com/track/6F9DPkjP6Tbz9FLgLyYgX6,spotify:track:6F9DPkjP6Tbz9FLgLyYgX6,0.752,0.849,4,-3.756,0.146,0.0646,3.15e-06,0.106,0.586,101.018,4
+Baby,1eRdeUgwXTHexTTY7kqPS4,240.013,49,https://open.spotify.com/track/1eRdeUgwXTHexTTY7kqPS4,spotify:track:1eRdeUgwXTHexTTY7kqPS4,0.682,0.713,7,-5.852,0.0555,0.164,0.0,0.113,0.489,160.503,4
+Sin Corazón,690JwCXepkfh98mSMxCrrd,171.2,50,https://open.spotify.com/track/690JwCXepkfh98mSMxCrrd,spotify:track:690JwCXepkfh98mSMxCrrd,0.766,0.8,10,-4.625,0.0553,0.242,6.96e-06,0.11,0.657,141.936,4
+Dices Que Te Vas,0QHOIQxRlIPYPJ1HLgIN8S,202.053,62,https://open.spotify.com/track/0QHOIQxRlIPYPJ1HLgIN8S,spotify:track:0QHOIQxRlIPYPJ1HLgIN8S,0.287,0.506,7,-10.009,0.0643,0.861,0.0,0.605,0.57,147.076,4
+Pineapple,24SkzbH7hGhUvqIaKlJ1TY,180.96,70,https://open.spotify.com/track/24SkzbH7hGhUvqIaKlJ1TY,spotify:track:24SkzbH7hGhUvqIaKlJ1TY,0.664,0.778,4,-4.627,0.083,0.0399,1.95e-06,0.31,0.657,94.951,4
+La Vida Continuó,6NUDfOCXlQT0RIuYJCXbfe,167.253,66,https://open.spotify.com/track/6NUDfOCXlQT0RIuYJCXbfe,spotify:track:6NUDfOCXlQT0RIuYJCXbfe,0.834,0.808,6,-3.141,0.183,0.279,0.0,0.0321,0.76,153.95,4
+Bebesita,69XHHNUwwgm7I0dlfqaGJS,185.053,52,https://open.spotify.com/track/69XHHNUwwgm7I0dlfqaGJS,spotify:track:69XHHNUwwgm7I0dlfqaGJS,0.826,0.714,7,-3.897,0.0385,0.319,1.6e-05,0.216,0.742,91.997,4
+Culpables,4RGKft6YTTWHjpQeRIInuS,228.96,66,https://open.spotify.com/track/4RGKft6YTTWHjpQeRIInuS,spotify:track:4RGKft6YTTWHjpQeRIInuS,0.812,0.728,8,-3.017,0.0833,0.287,2.9e-06,0.13,0.418,130.029,4
+Mi Cama,3fFMAZtSAK5YQ3Zdl3EE4Q,149.106,61,https://open.spotify.com/track/3fFMAZtSAK5YQ3Zdl3EE4Q,spotify:track:3fFMAZtSAK5YQ3Zdl3EE4Q,0.812,0.832,9,-4.777,0.0885,0.216,6.77e-05,0.0978,0.658,163.076,4
+La Ocasión Perfecta,0Y0QTT6W7zRVKv9hWdYkCg,222.693,48,https://open.spotify.com/track/0Y0QTT6W7zRVKv9hWdYkCg,spotify:track:0Y0QTT6W7zRVKv9hWdYkCg,0.621,0.876,1,-5.071,0.0564,0.0421,1.11e-06,0.0858,0.497,132.948,4
+Créeme,4EKZsrsCKyqr64FBHLc0DU,214.293,71,https://open.spotify.com/track/4EKZsrsCKyqr64FBHLc0DU,spotify:track:4EKZsrsCKyqr64FBHLc0DU,0.874,0.715,6,-3.576,0.0548,0.126,0.000162,0.105,0.652,96.995,4
+Go Karo,75myWkNUTahMKBbP6xCOlt,149.866,47,https://open.spotify.com/track/75myWkNUTahMKBbP6xCOlt,spotify:track:75myWkNUTahMKBbP6xCOlt,0.727,0.746,9,-3.342,0.0639,0.0465,1.02e-06,0.0793,0.826,93.037,4
+Mi Cama - Remix,5yV2jwp1AZnulVkiWEorq7,197.053,52,https://open.spotify.com/track/5yV2jwp1AZnulVkiWEorq7,spotify:track:5yV2jwp1AZnulVkiWEorq7,0.78,0.817,9,-4.521,0.0765,0.299,0.0,0.0977,0.797,162.978,4
+Yo Aprendí,0VU7mSqoaNxseitmR4chF5,185.906,46,https://open.spotify.com/track/0VU7mSqoaNxseitmR4chF5,spotify:track:0VU7mSqoaNxseitmR4chF5,0.75,0.703,6,-3.568,0.348,0.342,0.0,0.108,0.86,90.135,4
+Ganas De Ti,6Kbl5FRBRRZhjbv5FoXe3w,167.56,46,https://open.spotify.com/track/6Kbl5FRBRRZhjbv5FoXe3w,spotify:track:6Kbl5FRBRRZhjbv5FoXe3w,0.666,0.831,3,-7.214,0.126,0.0364,3.32e-06,0.104,0.295,106.007,4
+La Dama,78mpFgPXtqFccYQpSTNRX6,208.4,51,https://open.spotify.com/track/78mpFgPXtqFccYQpSTNRX6,spotify:track:78mpFgPXtqFccYQpSTNRX6,0.777,0.845,8,-5.854,0.188,0.121,0.000145,0.0921,0.732,100.01,4
+Hello,2RK7wvV1U6BU5siw4vhXN7,195.04,54,https://open.spotify.com/track/2RK7wvV1U6BU5siw4vhXN7,spotify:track:2RK7wvV1U6BU5siw4vhXN7,0.823,0.803,7,-4.722,0.056,0.458,3.61e-05,0.0924,0.836,94.988,4
+El Pecado,4M1dVJegubckrFNGGfcbrE,191.586,45,https://open.spotify.com/track/4M1dVJegubckrFNGGfcbrE,spotify:track:4M1dVJegubckrFNGGfcbrE,0.57,0.864,11,-6.284,0.0838,0.0159,0.0,0.0993,0.395,118.963,4
+A Solas,2yKJmfi2tvRJQ6elMxDmzv,200.733,47,https://open.spotify.com/track/2yKJmfi2tvRJQ6elMxDmzv,spotify:track:2yKJmfi2tvRJQ6elMxDmzv,0.786,0.743,0,-4.032,0.0407,0.165,0.0,0.203,0.721,94.004,4
+Ahora Me Llama,0alSPoUfrGb0RdVVG4Lf3n,235.226,74,https://open.spotify.com/track/0alSPoUfrGb0RdVVG4Lf3n,spotify:track:0alSPoUfrGb0RdVVG4Lf3n,0.573,0.646,7,-5.716,0.041,0.00949,3.98e-05,0.0932,0.109,134.979,4
+Eres Mi Todo,229NpRywpBdKErmKM2ctz2,187.466,48,https://open.spotify.com/track/229NpRywpBdKErmKM2ctz2,spotify:track:229NpRywpBdKErmKM2ctz2,0.724,0.793,11,-5.734,0.0467,0.341,0.00145,0.153,0.545,95.006,4
+Amor No Hay,4NO3qKhMYw9XjD7TAPQGUR,202.746,44,https://open.spotify.com/track/4NO3qKhMYw9XjD7TAPQGUR,spotify:track:4NO3qKhMYw9XjD7TAPQGUR,0.734,0.538,11,-7.541,0.279,0.0203,0.0,0.369,0.573,168.244,4
+A Ella,1pkMzGqBBS10nDiiYrNGGJ,198.906,79,https://open.spotify.com/track/1pkMzGqBBS10nDiiYrNGGJ,spotify:track:1pkMzGqBBS10nDiiYrNGGJ,0.759,0.735,2,-5.354,0.193,0.242,1.96e-05,0.15,0.598,181.902,4
+Muñeco De Lego,1PuBKZbBeFWc9uVvUjUuOW,164.32,50,https://open.spotify.com/track/1PuBKZbBeFWc9uVvUjUuOW,spotify:track:1PuBKZbBeFWc9uVvUjUuOW,0.617,0.782,0,-7.874,0.159,0.265,0.0,0.14,0.534,143.983,4
+Casi Nada,7p7erLN6ursMA8uvWiXj7Z,218.826,50,https://open.spotify.com/track/7p7erLN6ursMA8uvWiXj7Z,spotify:track:7p7erLN6ursMA8uvWiXj7Z,0.83,0.729,1,-3.192,0.037,0.117,6.42e-05,0.0845,0.631,98.054,4
+Lo Sabe Dios,3lbSlSHXPFThany9iJxRrV,147.386,70,https://open.spotify.com/track/3lbSlSHXPFThany9iJxRrV,spotify:track:3lbSlSHXPFThany9iJxRrV,0.378,0.587,4,-8.003,0.0583,0.879,0.0,0.132,0.675,83.821,4
+Ahora Me Llama - Remix,5K5mnE8uQnf9zIEX7ojdoq,251.786,52,https://open.spotify.com/track/5K5mnE8uQnf9zIEX7ojdoq,spotify:track:5K5mnE8uQnf9zIEX7ojdoq,0.613,0.668,0,-7.05,0.0421,0.0433,4.49e-05,0.139,0.218,135.034,4
+Labios Mordidos (with KAROL G),1HLaJowFbNM3MPyqnk5vjW,195.373,83,https://open.spotify.com/track/1HLaJowFbNM3MPyqnk5vjW,spotify:track:1HLaJowFbNM3MPyqnk5vjW,0.886,0.715,0,-4.446,0.0421,0.287,0.000165,0.329,0.748,90.005,4
+UNA NOCHE EN MEDELLÍN - REMIX,0Kp9Q3Wii4qO7AGHB2YuIp,205.144,52,https://open.spotify.com/track/0Kp9Q3Wii4qO7AGHB2YuIp,spotify:track:0Kp9Q3Wii4qO7AGHB2YuIp,0.765,0.846,10,-2.461,0.0761,0.0346,0.0,0.0451,0.887,96.042,4
+QLONA,5gUysq7aO7v7EcV5kQWgeh,172.797,65,https://open.spotify.com/track/5gUysq7aO7v7EcV5kQWgeh,spotify:track:5gUysq7aO7v7EcV5kQWgeh,0.741,0.843,7,-7.486,0.293,0.541,1.88e-06,0.0879,0.45,169.933,4
+DISPO,7c8gbGEhFEMnLHOFO2gbUd,193.961,53,https://open.spotify.com/track/7c8gbGEhFEMnLHOFO2gbUd,spotify:track:7c8gbGEhFEMnLHOFO2gbUd,0.626,0.842,0,-3.105,0.0472,0.435,0.0,0.127,0.621,93.994,4
+S91,7EpOXgSRgnglRWr86pZfGU,173.005,80,https://open.spotify.com/track/7EpOXgSRgnglRWr86pZfGU,spotify:track:7EpOXgSRgnglRWr86pZfGU,0.719,0.856,0,-4.923,0.194,0.587,2.89e-05,0.09,0.417,128.161,4
+WATATI (feat. Aldo Ranks) [From Barbie The Album],6MZi5j60L80SZLBxN0bv8s,166.882,75,https://open.spotify.com/track/6MZi5j60L80SZLBxN0bv8s,spotify:track:6MZi5j60L80SZLBxN0bv8s,0.851,0.893,3,-5.342,0.0979,0.145,6.49e-05,0.319,0.959,110.002,4
+AMARGURA,0sTYyWXP6DUJ0032QvZ8i6,170.906,62,https://open.spotify.com/track/0sTYyWXP6DUJ0032QvZ8i6,spotify:track:0sTYyWXP6DUJ0032QvZ8i6,0.704,0.921,6,-3.396,0.0735,0.172,0.0,0.175,0.519,106.989,4
+TQG,2oMjKuKUEJFuLiVmTq7Vjx,198.36,75,https://open.spotify.com/track/2oMjKuKUEJFuLiVmTq7Vjx,spotify:track:2oMjKuKUEJFuLiVmTq7Vjx,0.65,0.839,4,-3.38,0.212,0.666,0.0,0.126,0.7,90.015,4
+PERO TÚ,4QpoPO2Z9xqESwEsfTjaLj,183.906,64,https://open.spotify.com/track/4QpoPO2Z9xqESwEsfTjaLj,spotify:track:4QpoPO2Z9xqESwEsfTjaLj,0.782,0.867,6,-4.562,0.293,0.406,0.0,0.108,0.685,139.893,4
+OJOS FERRARI,2PRmf1sl1EV0zceL9dbvxE,180.466,59,https://open.spotify.com/track/2PRmf1sl1EV0zceL9dbvxE,spotify:track:2PRmf1sl1EV0zceL9dbvxE,0.711,0.899,1,-2.78,0.0901,0.159,4.49e-05,0.138,0.647,124.081,4
+MAÑANA SERÁ BONITO,5mOQ1AIC0MXzQ26a46ucOF,211.4,49,https://open.spotify.com/track/5mOQ1AIC0MXzQ26a46ucOF,spotify:track:5mOQ1AIC0MXzQ26a46ucOF,0.726,0.77,8,-4.546,0.116,0.428,1.5e-05,0.321,0.238,91.992,4
+KÁRMIKA,7rrWh2XIse8URW74454keQ,237.013,60,https://open.spotify.com/track/7rrWh2XIse8URW74454keQ,spotify:track:7rrWh2XIse8URW74454keQ,0.65,0.872,6,-5.248,0.373,0.466,0.0,0.127,0.732,97.077,4
+DAÑAMOS LA AMISTAD,0mCBgI8c86M0v84lY9fQhW,175.386,50,https://open.spotify.com/track/0mCBgI8c86M0v84lY9fQhW,spotify:track:0mCBgI8c86M0v84lY9fQhW,0.779,0.796,0,-4.874,0.0888,0.16,5.78e-06,0.0813,0.601,92.968,4
+X SI VOLVEMOS,3Zyk5Vd9WNPNVWxvb0EZTk,203.36,73,https://open.spotify.com/track/3Zyk5Vd9WNPNVWxvb0EZTk,spotify:track:3Zyk5Vd9WNPNVWxvb0EZTk,0.78,0.793,1,-4.247,0.249,0.341,0.0,0.111,0.576,178.046,4
+La Vida Es Una (From Puss in Boots: The Last Wish),35HgzqAoEZ28Ovq7kb9nDz,189.838,69,https://open.spotify.com/track/35HgzqAoEZ28Ovq7kb9nDz,spotify:track:35HgzqAoEZ28Ovq7kb9nDz,0.777,0.819,10,-7.156,0.0513,0.0708,0.000358,0.0973,0.625,109.979,4
